@@ -12,7 +12,7 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        Toast t = Toast.makeText(LoginActivity.this , "Welcome to My ToDo application!", Toast.LENGTH_SHORT); //long_short 2-3sec long 4-5 sec
+        Toast t = Toast.makeText(LoginActivity.this , "Welcome to My ToDo application!", Toast.LENGTH_SHORT); //length_short 2-3sec long 4-5 sec
         t.show();
     }
 }
