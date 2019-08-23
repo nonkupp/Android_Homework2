@@ -1,5 +1,5 @@
 <resources>
-    <string name="my_todo">My ToDo</string>
+    <string name="my_todo" translatable="false">My ToDo</string>
     <string name="login_to_your_account">Login To Your Account</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
